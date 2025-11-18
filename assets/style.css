@@ -183,7 +183,7 @@ header.scroll {
 .card img {
     width: 450px;
     transition: transform 0.5s;
-    border-radius: 5%;
+    border-radius: 8%;
 }
 
 .card {
